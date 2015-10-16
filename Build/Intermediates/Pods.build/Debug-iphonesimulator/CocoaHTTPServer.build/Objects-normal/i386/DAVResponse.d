@@ -1,0 +1,29 @@
+dependencies: \
+  /Users/lefukeji/Desktop/ReactiveCocoaDemo/Pods/CocoaHTTPServer/Extensions/WebDAV/DAVResponse.m \
+  /Users/lefukeji/Desktop/ReactiveCocoaDemo/Pods/Target\ Support\ Files/CocoaHTTPServer/CocoaHTTPServer-prefix.pch \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/parser.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/xmlversion.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/xmlexports.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/tree.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/xmlstring.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/xmlregexp.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/dict.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/hash.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/valid.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/xmlerror.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/list.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/xmlautomata.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/entities.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/encoding.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/xmlIO.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/globals.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/SAX.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/xlink.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/SAX2.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/xmlmemory.h \
+  /Applications/Xcode1.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator9.0.sdk/usr/include/libxml2/libxml/threads.h \
+  /Users/lefukeji/Desktop/ReactiveCocoaDemo/Pods/CocoaHTTPServer/Extensions/WebDAV/DAVResponse.h \
+  /Users/lefukeji/Desktop/ReactiveCocoaDemo/Pods/CocoaHTTPServer/Core/HTTPResponse.h \
+  /Users/lefukeji/Desktop/ReactiveCocoaDemo/Pods/CocoaHTTPServer/Core/HTTPLogging.h \
+  /Users/lefukeji/Desktop/ReactiveCocoaDemo/Pods/CocoaLumberjack/Classes/DDLog.h \
+  /Users/lefukeji/Desktop/ReactiveCocoaDemo/Pods/CocoaLumberjack/Classes/DDLegacyMacros.h

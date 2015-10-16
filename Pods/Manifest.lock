@@ -1,0 +1,219 @@
+PODS:
+  - AFDownloadRequestOperation (2.0.1):
+    - AFNetworking (~> 2.0)
+  - AFNetworking (2.6.0):
+    - AFNetworking/NSURLConnection (= 2.6.0)
+    - AFNetworking/NSURLSession (= 2.6.0)
+    - AFNetworking/Reachability (= 2.6.0)
+    - AFNetworking/Security (= 2.6.0)
+    - AFNetworking/Serialization (= 2.6.0)
+    - AFNetworking/UIKit (= 2.6.0)
+  - AFNetworking/NSURLConnection (2.6.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/NSURLSession (2.6.0):
+    - AFNetworking/Reachability
+    - AFNetworking/Security
+    - AFNetworking/Serialization
+  - AFNetworking/Reachability (2.6.0)
+  - AFNetworking/Security (2.6.0)
+  - AFNetworking/Serialization (2.6.0)
+  - AFNetworking/UIKit (2.6.0):
+    - AFNetworking/NSURLConnection
+    - AFNetworking/NSURLSession
+  - AMScrollingNavbar (1.5.1)
+  - BlocksKit (2.2.5):
+    - BlocksKit/All (= 2.2.5)
+  - BlocksKit/All (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+    - BlocksKit/MessageUI
+    - BlocksKit/UIKit
+  - BlocksKit/Core (2.2.5)
+  - BlocksKit/DynamicDelegate (2.2.5)
+  - BlocksKit/MessageUI (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - BlocksKit/UIKit (2.2.5):
+    - BlocksKit/Core
+    - BlocksKit/DynamicDelegate
+  - CocoaAsyncSocket (7.4.2)
+  - CocoaHTTPServer (2.3):
+    - CocoaAsyncSocket
+    - CocoaLumberjack
+  - CocoaLumberjack (2.0.1):
+    - CocoaLumberjack/Default (= 2.0.1)
+    - CocoaLumberjack/Extensions (= 2.0.1)
+  - CocoaLumberjack/Core (2.0.1)
+  - CocoaLumberjack/Default (2.0.1):
+    - CocoaLumberjack/Core
+  - CocoaLumberjack/Extensions (2.0.1):
+    - CocoaLumberjack/Default
+  - DBCamera (2.4.1):
+    - GPUImage (~> 0.1)
+  - FLEX (2.1.0)
+  - FMDB (2.5):
+    - FMDB/standard (= 2.5)
+  - FMDB/common (2.5)
+  - FMDB/standard (2.5):
+    - FMDB/common
+  - GPUImage (0.1.7)
+  - HexColors (2.2.1)
+  - iCarousel (1.8.2)
+  - JSONKit (1.4)
+  - kingpin (0.3.1)
+  - LKDBHelper (2.1.4):
+    - FMDB
+  - MagicalRecord (2.3.0)
+  - Mantle (2.0.5):
+    - Mantle/extobjc (= 2.0.5)
+  - Mantle/extobjc (2.0.5)
+  - Masonry (0.6.3)
+  - MBProgressHUD (0.9.1)
+  - MJExtension (2.5.12)
+  - Nimbus (1.2.0):
+    - Nimbus/AttributedLabel (= 1.2.0)
+    - Nimbus/Badge (= 1.2.0)
+    - Nimbus/Collections (= 1.2.0)
+    - Nimbus/Collections (= 1.2.0)
+    - Nimbus/Core (= 1.2.0)
+    - Nimbus/CSS (= 1.2.0)
+    - Nimbus/Interapp (= 1.2.0)
+    - Nimbus/Launcher (= 1.2.0)
+    - Nimbus/Models (= 1.2.0)
+    - Nimbus/NetworkControllers (= 1.2.0)
+    - Nimbus/NetworkImage (= 1.2.0)
+    - Nimbus/Overview (= 1.2.0)
+    - Nimbus/PagingScrollView (= 1.2.0)
+    - Nimbus/Photos (= 1.2.0)
+    - Nimbus/Textfield (= 1.2.0)
+    - Nimbus/WebController (= 1.2.0)
+  - Nimbus/AttributedLabel (1.2.0):
+    - Nimbus/Core
+  - Nimbus/Badge (1.2.0):
+    - Nimbus/Core
+  - Nimbus/Collections (1.2.0):
+    - Nimbus/Core
+  - Nimbus/Core (1.2.0)
+  - Nimbus/CSS (1.2.0):
+    - AFNetworking (~> 2.1)
+    - Nimbus/Core
+    - Nimbus/Textfield
+  - Nimbus/Interapp (1.2.0):
+    - Nimbus/Core
+  - Nimbus/Launcher (1.2.0):
+    - Nimbus/Core
+    - Nimbus/PagingScrollView
+  - Nimbus/Models (1.2.0):
+    - Nimbus/Core
+  - Nimbus/NetworkControllers (1.2.0):
+    - Nimbus/Core
+  - Nimbus/NetworkImage (1.2.0):
+    - AFNetworking (~> 2.1)
+    - Nimbus/Core
+  - Nimbus/Overview (1.2.0):
+    - Nimbus/Core
+    - Nimbus/Models
+  - Nimbus/PagingScrollView (1.2.0):
+    - Nimbus/Core
+  - Nimbus/Photos (1.2.0):
+    - Nimbus/Core
+    - Nimbus/PagingScrollView
+  - Nimbus/Textfield (1.2.0):
+    - Nimbus/Core
+  - Nimbus/WebController (1.2.0):
+    - Nimbus/Core
+  - RDVTabBarController (1.1.9)
+  - Reachability (3.0.0)
+  - ReactiveCocoa (2.5):
+    - ReactiveCocoa/UI (= 2.5)
+  - ReactiveCocoa/Core (2.5):
+    - ReactiveCocoa/no-arc
+  - ReactiveCocoa/no-arc (2.5)
+  - ReactiveCocoa/UI (2.5):
+    - ReactiveCocoa/Core
+  - SDWebImage (3.7.3):
+    - SDWebImage/Core (= 3.7.3)
+  - SDWebImage/Core (3.7.3)
+  - SVPullToRefresh (0.4.1)
+  - SWTableViewCell (0.3.7)
+  - TMCache (2.1.0)
+  - Toast (2.4)
+  - TPKeyboardAvoiding (1.2.9)
+  - TSMessages (0.9.12):
+    - HexColors (~> 2.2.0)
+  - TTTAttributedLabel (1.13.4)
+  - WebViewJavascriptBridge (4.1.4)
+
+DEPENDENCIES:
+  - AFDownloadRequestOperation
+  - AFNetworking
+  - AMScrollingNavbar
+  - BlocksKit
+  - CocoaAsyncSocket
+  - CocoaHTTPServer
+  - CocoaLumberjack
+  - DBCamera (~> 2.4)
+  - FLEX
+  - GPUImage
+  - iCarousel
+  - JSONKit (~> 1.4)
+  - kingpin
+  - LKDBHelper (~> 2.1.3)
+  - MagicalRecord
+  - Mantle
+  - Masonry (~> 0.6.1)
+  - MBProgressHUD (~> 0.9.1)
+  - MJExtension
+  - Nimbus
+  - RDVTabBarController
+  - Reachability (~> 3.0.0)
+  - ReactiveCocoa
+  - SDWebImage (~> 3.7.2)
+  - SVPullToRefresh
+  - SWTableViewCell
+  - TMCache
+  - Toast
+  - TPKeyboardAvoiding
+  - TSMessages
+  - TTTAttributedLabel
+  - WebViewJavascriptBridge
+
+SPEC CHECKSUMS:
+  AFDownloadRequestOperation: 748a1643423e1ddb23f2178f778087d4f0ae8ac7
+  AFNetworking: 79f7eb1a0fcfa7beb409332b2ca49afe9ce53b05
+  AMScrollingNavbar: 767ed2db60d927a809bddff5d01b739b7020b12b
+  BlocksKit: 7f422b971407001178d181a43b99014ea2591fe6
+  CocoaAsyncSocket: f5783bdedd232d91b89769bc4b5a1580aed518ad
+  CocoaHTTPServer: 5624681fc3473d43b18202f635f9b3abb013b530
+  CocoaLumberjack: 019d1361244274a6138c788c6cb80baabc13fb8f
+  DBCamera: 7a4343a541e1264610f9f33176552b93170a843e
+  FLEX: 8b469d7b103ddce41110fe2f0d8a9398c03759a8
+  FMDB: 96e8f1bcc1329e269330f99770ad4285d9003e52
+  GPUImage: 733a5f0fab92df9de1c37ba9df520a833ccb406d
+  HexColors: abfd172e329dab59888614ccba6f216cec59289d
+  iCarousel: 67c8a43da5a46795b56aadfc96cd36a16f6149b2
+  JSONKit: 5b69e804ea54d99293eed0fd2ce596c5703fefb0
+  kingpin: 52bb578006bdeb881db225e6ff1a4228375cbfbf
+  LKDBHelper: 6bde14a7d8d1915dd6f1a960176cc868175dd14d
+  MagicalRecord: 89eb7d7ead39fb37f01c3d010665ee94d17f8dba
+  Mantle: 1912395033f601de5adc8ee91e48f46e4c7051ad
+  Masonry: ff105a956abcd19a618b2028b121cb638d7a8e2f
+  MBProgressHUD: c47f2c166c126cf2ce36498d80f33e754d4e93ad
+  MJExtension: 5ab633484e431f777387c70b676c80f993361f1b
+  Nimbus: 3d6dfdeabf548ba4eb43be24e74fd202fb8c4e22
+  RDVTabBarController: 67794f7a7a37f8e32f046f85ac67d06ab92d624a
+  Reachability: 31e4272bd8378e094beaf6609dc182c85c4e6574
+  ReactiveCocoa: e2db045570aa97c695e7aa97c2bcab222ae51f4a
+  SDWebImage: 1d2b1a1efda1ade1b00b6f8498865f8ddedc8a84
+  SVPullToRefresh: ba2e718695a43253d8bea6852d2960097dc15d8c
+  SWTableViewCell: 2a94aadc9d47b2b611fa064566bf57948b95b579
+  TMCache: 95ebcc9b3c7e90fb5fd8fc3036cba3aa781c9bed
+  Toast: 0773b8fc0e97352ca6054517bec7ebdd4110029d
+  TPKeyboardAvoiding: ff1ee4e5a5a0c119b965552af8f183868ea20207
+  TSMessages: c8cc7b80f2a833af533872cd02010cac061532cc
+  TTTAttributedLabel: 0a2ac7b2dd726d32a070dafb01446026b11e624f
+  WebViewJavascriptBridge: f10ac16f2cd3adf2b941bd79477c55a8f6e01044
+
+COCOAPODS: 0.39.0
